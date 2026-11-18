@@ -1,0 +1,21 @@
+{
+ "worked_example": {
+  "Q_N": 2.3814847273135604,
+  "table": 1.8004024538490515,
+  "equations": 1.8099283927583059
+ },
+ "aec_example": {
+  "10000": {
+   "critical_mm": 36.968137055371805,
+   "max_mm": 56.60705441912239
+  },
+  "40000": {
+   "critical_mm": 36.968137055371805,
+   "max_mm": 56.60705377035471
+  }
+ },
+ "table_vs_equations_max_abs": 0.00666666666666671,
+ "source_sha256": {
+  "gutter_capacity.py": "24ef8fb5df0b21610f1a55bd50486f36c9d991d563dc13a24471bc0ea5ea4a8c"
+ }
+}
